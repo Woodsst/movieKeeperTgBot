@@ -135,6 +135,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+movies-462907-3905ade8cbd4.json
 .env
 .envrc
 .venv
